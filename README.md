@@ -6,7 +6,7 @@
 #### 🛸・Discord User ***(zMicky' シ#2848)***
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=djs,discord&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nodejs,discord&theme=dark&perline=3" />
   
   <quote><h1>Statistics</h1></quote>
   
