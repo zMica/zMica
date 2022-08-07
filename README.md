@@ -1,17 +1,7 @@
-<div align="center">
-   <quote><h1>Hello, Someone here?</h1></quote>
-</div>
-
-#### 📜・JavaScript Student
-#### 🛸・Discord User ***(zMicky' シ#2848)***
-
-
-<div align="center">
-  <quote><h1>Tools and Fun</h1></quote>
+<h1 align="center" style="font-size: 80px">zMicaX</h1> 
   
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discord&theme=dark&perline=3" />
-  
-  <quote><h2>Statistics</h2></quote>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=zMica&show_icons=true&theme=dracula" />
-</div>
+ <div align="center"> 
+  <a href="https://github.com/zMica"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zMica&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uVictorX&layout=compact&langs_count=7&theme=dark"/> 
+ </div>
