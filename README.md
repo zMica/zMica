@@ -12,4 +12,4 @@
   <img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
  </div>
 
- ![Snake animation](https://github.com/uVictorX/uVictorX/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/zMica/zMica/blob/output/github-contribution-grid-snake.svg)
